@@ -1,0 +1,55 @@
+@font-face {
+	font-family: "AdelleSansLt";
+	font-weight: 700; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../Fonts/AdelleSansLt.ttf');
+	
+}
+
+font-face {
+	font-family: "AdelleSansSb";
+	font-weight: 700; /* graisse definie dans fichier de la fonte (verifier dans glyph ou fontlab -> font Info) */
+	src: url('../Fonts/AdelleSansSb.ttf');
+	
+}
+.texto {
+
+	margin-top:0;
+	width:100%;
+	margin: 40px 0px 00px 40px;
+	font-family: "AdelleSansSb";
+	font-size: 38px;
+	line-height: 140%;
+	color: #d20000;
+
+}
+
+.numero {
+
+	margin-top:0;
+	width:100%;
+	font-family: "AdelleSansLt";
+	font-size: 20px;
+	line-height: 140%;
+	color: #d20000;
+
+}
+
+.Copyright {
+
+
+font-family: "AdelleSansLt";
+font-size: 15px;
+margin: 40px 0px 00px 40px;
+color: #d20000;
+
+}
+
+.proyectos {
+
+
+font-family: "AdelleSansLt";
+font-size: 13px;
+margin: 00px 0px 0px 0px;
+color: black;
+
+}
